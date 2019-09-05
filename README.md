@@ -1,2 +1,2 @@
 # MuseumX
-this is our proposal
+Read our Proposal over at our Wiki!
