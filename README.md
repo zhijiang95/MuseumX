@@ -11,20 +11,20 @@ Zhijiang Wang
 # Project Overview
 #### Problem space
 
-#### Design process
+
 
 #### Task allocation
 #Documentation
-
 
 
 #### Research
 
 #### Design
 
-#### Testing
+### Testing
 [Workshop](https://github.com/zhijiang95/MuseumX/wiki/Testing)
+
 
 #### Future development
 
-
+#### Design process
